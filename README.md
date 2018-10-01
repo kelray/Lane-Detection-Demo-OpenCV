@@ -1,4 +1,4 @@
-# Lane-Detection-Demo-OpenCV
+# Lane Detection Demo OpenCV
 This is a simple lane detection demo in C++ using OpenCV library. 
 
 Disclaimer:
